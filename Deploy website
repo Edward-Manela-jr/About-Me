@@ -1,0 +1,5 @@
+
+DELOPY PERSONAL WEBSITE
+
+npm run build
+netlify deploy --prod --dir=build
