@@ -11,7 +11,7 @@ export const Bio = {
     github: "https://github.com/Edward-Manela-jr",
     resume:
       "https://drive.google.com/file/d/1Fh7T9EfCqD9NittdFPAnisqgYUBpQfux/view?usp=sharing",
-    linkedin: "https://www.linkedin.com/in/elijah-chileshe-4277b3187",
+    linkedin: "https://www.linkedin.com/in/edward-manela-jr-3bb052172/",
     github: "https://github.com/Edward-Manela-jr", //added my github
     gmail: "mailto:edwardjuniormanela@gmail.com", //added my gmail
     facebook: "",
