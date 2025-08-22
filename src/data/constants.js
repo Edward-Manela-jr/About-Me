@@ -3,16 +3,16 @@ const unzaLogo = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAADNCAMAAAAI
 export const Bio = {
     name: "Edward Manela Jr",
     roles: [
-      "a Software Developer",
+      "a Software/Telecoms Engineer",
       // "an ICT Tutor"
     ],
     description:
-      "I hold a Bachelor's Degree in Information and Communication Technologies and a Postgraduate Diploma in Computer Science, I am also pursuing my Msc in Computer Science. I have hands-on experience in full-stack development, with a focus on React, React Native, and Python-based backend systems. I'm currently involved in projects related to medical imaging, data analysis, and system development. I’m passionate about building impactful software solutions, and I'm always eager to collaborate, learn, and contribute meaningfully to team objectives.",
-    github: "https://github.com/elijahchileshe",
+      "I hold a Diploma in Telecommuniations Engineering, I am also pursuing A Bachelor of Science (B.S.) in Software Engineering . I am a beginer in full-stack development, with a focus on React, React Native, and Python-based backend systems. I'm always trying to find creative solutions to technical and non tecnical problems and eager to collaborate, learn, and contribute meaningfully to team objectives.",
+    github: "https://github.com/Edward-Manela-jr",
     resume:
       "https://drive.google.com/file/d/1Fh7T9EfCqD9NittdFPAnisqgYUBpQfux/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/elijah-chileshe-4277b3187",
-    github: "https://github.com/elijahchileshe",
+    github: "https://github.com/Edward-Manela-jr", //added my github
     gmail: "mailto:chilesheelijah01@gmail.com",
     facebook: "",
   };
