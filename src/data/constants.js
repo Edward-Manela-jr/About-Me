@@ -13,7 +13,7 @@ export const Bio = {
       "https://drive.google.com/file/d/1Fh7T9EfCqD9NittdFPAnisqgYUBpQfux/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/elijah-chileshe-4277b3187",
     github: "https://github.com/Edward-Manela-jr", //added my github
-    gmail: "mailto:chilesheelijah01@gmail.com",
+    gmail: "mailto:edwardjuniormanela@gmail.com", //added my gmail
     facebook: "",
   };
   
