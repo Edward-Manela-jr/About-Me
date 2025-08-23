@@ -28,3 +28,4 @@ export const whiteTheme = {
     black: "#000000",
     blue: "blue"
 }
+

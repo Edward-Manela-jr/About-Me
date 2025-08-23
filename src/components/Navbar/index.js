@@ -6,7 +6,7 @@ import { useTheme } from 'styled-components';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { useState } from 'react';
 import { Bio } from '../../data/constants';
-import logo from '../../../src/Images/logo.png';
+// import logo from '../../../src/Images/logo.png'; // logo image
 
 const Nav = styled.div`
     background-color: ${({theme}) => theme.card_light};
@@ -201,10 +201,11 @@ const Navbar = () => {
   return (
     <Nav>
         <NavContainer>
-            <NavLogo to='/'>
+          {/* code for logo below */}
+            {/* <NavLogo to='/'>
               <img src={logo} alt="Logo" style={{ height: '40px', marginRight: '10px' }} />
               
-            </NavLogo>
+            </NavLogo> */}
             <MobileIcon>
                 {isOpen ? <FaTimes onClick={toggle} /> : <FaBars onClick={toggle} />}
             </MobileIcon>
