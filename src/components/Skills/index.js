@@ -1,3 +1,5 @@
+//this file contains constants used throughout the application, such as personal information, skills, and projects.
+// It is used to centralize data and make it easier to manage and update.
 import React from 'react';
 import styled from 'styled-components';
 import { skills } from '../../data/constants';

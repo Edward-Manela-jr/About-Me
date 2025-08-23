@@ -1,3 +1,4 @@
+//this component sets up SEO meta tags for the application using react-helmet. SEO stands for Search Engine Optimization, which helps improve the visibility of the website on search engines by providing relevant metadata.
 import React from 'react';
 import { Helmet } from 'react-helmet';
 

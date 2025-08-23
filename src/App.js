@@ -33,7 +33,7 @@ function App() {
   return (
     <ThemeProvider theme={whiteTheme}>
       <Router>
-        <SEO title="Home" description="Elijah Chileshe's portfolio showcasing professional experience, projects, and publications in software engineering and AI/ML." path="/" />
+        <SEO title="Home" description="Edward Manela's portfolio showcasing professional experience, projects, and publications in software engineering and AI/ML." path="/" />
         <Navbar />
         <Routes>
           <Route path="/" element={
@@ -53,7 +53,7 @@ function App() {
           <Route path="/blogs" element={
             <Blogs />
           } />
-          <Route path="/publications" element={
+          <Route path="/projects" element={
             <Publications />
           } />
         </Routes>
