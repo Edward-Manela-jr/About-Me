@@ -53,7 +53,7 @@ function App() {
           <Route path="/blogs" element={
             <Blogs />
           } />
-          <Route path="/projects" element={
+          <Route path="/publications" element={
             <Publications />
           } />
         </Routes>
