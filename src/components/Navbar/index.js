@@ -212,7 +212,7 @@ const Navbar = () => {
             <NavItems>
             <NavLink to='/' onClick={closeMobileMenu}>Home</NavLink>
             <NavLink to='/blogs' onClick={closeMobileMenu}>Blogs</NavLink>
-            <NavLink to='/publications' onClick={closeMobileMenu}>Publications</NavLink>
+            <NavLink to='/publications' onClick={closeMobileMenu}>Projects</NavLink>
             </NavItems>
             <ButtonContainer>
                 <GithubButton href={Bio.github} target="_blank">Github Profile</GithubButton>

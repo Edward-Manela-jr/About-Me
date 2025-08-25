@@ -210,37 +210,38 @@ const Blogs = () => {
   }, [navigate]);
 
   const blogPosts = [
-    {
-      title: "🎉 I have been awarded the 2025 Linux Foundation Training (LiFT) Scholarship!",
-      date: "June 2025",
-      content: "I'm excited to share that I’ve been selected as a recipient of the 2025 Linux Foundation Training (LiFT) Scholarship! This scholarship recognizes individuals who are passionate about Linux and open-source technologies and supports them with training resources to advance their skills and careers. Being chosen for this opportunity is a huge honor and a motivating step forward in my journey as a Linux and system administration professional."
-    },
-    {
-      title: "Attended Data Science Africa 2025 (DSA 2025)",
-      date: "June 2025",
-      content: "I attended Data Science Africa 2025, held in Ibadan, Nigeria from June 2nd to 6th. It was a transformative experience that brought together brilliant minds from across Africa and beyond. As a participant, I had the privilege of engaging with cutting-edge research, innovative solutions, and passionate individuals dedicated to advancing data science on the continent."
-    },
-    {
-      title: "Zambia Cybertech Conference 2024 - 2nd Place Winner",
-      date: "September 25-26, 2024",
-      content: "I won 2nd place in the pitching contest at the Zambia Cybertech Conference, held in Zambia from September 25th to 26th September, 2024, with my pitch titled 'Exploring AI-Driven Innovations for Accelerating Radiology Reporting in Zambia'."
-    },
-    {
-      title: "Presentations at Electronic Theses and Dissertations 2024 Conference (ETD 2024)" ,
-      date: "2024",
-      content: "Presented full paper titled 'A Pre-Processing Pipeline for Improved ETD Metadata Quality in Downstream Services' and poster titled 'Design and Implementation of an Interoperable Zambia National Electronic Thesis and Dissertation Portal' at the 27th International Symposium on Electronic Theses and Dissertations (ETD 2024) in Livingstone, Zambia."
-    },
-    {
-      title: "Presentation at Pan African Conference on Science, Computing and Telecommunications (PACT 2023)",
-      date: "2023",
-      content: "Presented student abstract paper Large Scale Analysis of Medical Image Metadata at the Pan African Conference on Science, Computing and Telecommunications (PACT 2023) held in Lusaka, Zambia"
-    }
+    // {
+    //   title: "🎉 I have been awarded the 2025 HiLux Foundation Training (LiFT) Scholarship!",
+    //   date: "June 2025",
+    //   content: "I'm excited to share that I’ve been selected as a recipient of the 2025 Linux Foundation Training (LiFT) Scholarship! This scholarship recognizes individuals who are passionate about Linux and open-source technologies and supports them with training resources to advance their skills and careers. Being chosen for this opportunity is a huge honor and a motivating step forward in my journey as a Linux and system administration professional."
+    // },
+    // {
+    //   title: "Attended Data Science Africa 2025 (DSA 2025)",
+    //   date: "June 2025",
+    //   content: "I attended Data Science Africa 2025, held in Ibadan, Nigeria from June 2nd to 6th. It was a transformative experience that brought together brilliant minds from across Africa and beyond. As a participant, I had the privilege of engaging with cutting-edge research, innovative solutions, and passionate individuals dedicated to advancing data science on the continent."
+    // },
+    // {
+    //   title: "Zambia Cybertech Conference 2024 - 2nd Place Winner",
+    //   date: "September 25-26, 2024",
+    //   content: "I won 2nd place in the pitching contest at the Zambia Cybertech Conference, held in Zambia from September 25th to 26th September, 2024, with my pitch titled 'Exploring AI-Driven Innovations for Accelerating Radiology Reporting in Zambia'."
+    // },
+    // {
+    //   title: "Presentations at Electronic Theses and Dissertations 2024 Conference (ETD 2024)" ,
+    //   date: "2024",
+    //   content: "Presented full paper titled 'A Pre-Processing Pipeline for Improved ETD Metadata Quality in Downstream Services' and poster titled 'Design and Implementation of an Interoperable Zambia National Electronic Thesis and Dissertation Portal' at the 27th International Symposium on Electronic Theses and Dissertations (ETD 2024) in Livingstone, Zambia."
+    // },
+    // {
+    //   title: "Presentation at Pan African Conference on Science, Computing and Telecommunications (PACT 2023)",
+    //   date: "2023",
+    //   content: "Presented student abstract paper Large Scale Analysis of Medical Image Metadata at the Pan African Conference on Science, Computing and Telecommunications (PACT 2023) held in Lusaka, Zambia"
+    // }
   ];
 
   return (
     <BlogContainer>
       <BlogWrapper>
-        <BlogHeader>My Blog Posts</BlogHeader>
+        {/* edit the line below to add title to your blog page */}
+        <BlogHeader>Coming Soon!</BlogHeader> 
         <BlogContent>
           {blogPosts.map((post, index) => (
             <BlogPost key={index}>
