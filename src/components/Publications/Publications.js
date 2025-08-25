@@ -67,10 +67,12 @@ const PublicationDetails = styled.p`
   margin-bottom: 0.5rem;
 `;
 
+
+// Changed the title from Publications to Projects  
 const Publications = () => {
   return (
     <Container>
-      <Title>Publications</Title>
+      <Title>Projects</Title>
       <PublicationsGrid>
         {publications.map((pub, index) => (
           <PublicationCard
