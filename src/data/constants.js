@@ -10,7 +10,8 @@ export const Bio = {
       "I hold a Diploma in Telecommuniations Engineering, I am also pursuing A Bachelor of Science (B.S.) in Software Engineering . I am a beginer in full-stack development, with a focus on React, React Native, and Python-based backend systems. I'm always trying to find creative solutions to technical and non tecnical problems and eager to collaborate, learn, and contribute meaningfully to team objectives.",
     github: "https://github.com/Edward-Manela-jr",
     resume:
-      "https://drive.google.com/file/d/1Fh7T9EfCqD9NittdFPAnisqgYUBpQfux/view?usp=sharing",
+      "https://drive.google.com/file/d/18-Ly8nC-BMnDD9AvXEkSfw7TDJUHGRla/view?usp=sharing",
+      
     linkedin: "https://www.linkedin.com/in/edward-manela-jr-3bb052172/", //added my linkedin
     github: "https://github.com/Edward-Manela-jr", //added my github
     gmail: "mailto:edwardjuniormanela@gmail.com", //added my gmail
