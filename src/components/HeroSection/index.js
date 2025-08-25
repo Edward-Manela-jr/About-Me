@@ -155,6 +155,7 @@ const SubTitle = styled.div`
   }
 `;
 
+//edit the code below to edit the Resume button
 const ResumeButton = styled.a`
     -webkit-appearance: button;
     -moz-appearance: button;
@@ -191,6 +192,8 @@ const ResumeButton = styled.a`
     } 
 
 `;
+
+// edit the code below to edit the Accomplishments button
 const AccomplishmentsButton = styled.a`
     -webkit-appearance: button;
     -moz-appearance: button;
@@ -201,6 +204,7 @@ const AccomplishmentsButton = styled.a`
     text-align: center;
     padding: 16px 0;
     margin-bottom: 20px;
+    margin-left: 10px; //spacing from the resume button
     color:${({ theme }) => theme.white};
     border-radius: 20px;
     cursor: pointer;
