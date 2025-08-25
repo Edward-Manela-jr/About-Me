@@ -95,7 +95,7 @@ function Footer() {
         transition={{ duration: 3, ease: 'easeIn' }} //
 >
       <FooterWrapper>
-        <Logo>Elijah Chileshe</Logo>
+        <Logo>Edward Manela Jr</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -109,7 +109,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.github} target="display"><GitHub /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2025 Elijah Chileshe. All rights reserved.
+          &copy; 2025 Edward Manela Jr. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
