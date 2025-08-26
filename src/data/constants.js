@@ -292,15 +292,15 @@ export const Bio = {
       doi: "",
       link: "https://drive.google.com/file/d/1ZPlWzgvXMcWRTMmkI5fb7FO8SCU_JDAG/view?usp=sharing"
     },
-    // {
-    //   id: 2,
-    //   title: "Intelligent DICOM Viewers for Low-Resource Settings: Lightweight In-Browser Intelligent DICOM Viewers for Semi-Automated Analysis of Medical Images",
-    //   authors: "Malaizyo Muzumala, Andrew Shawa, Elijah Chileshe, Peter Chibuta, Lighton Phiri",
-    //   journal: "Proceedings of the International Conference on Information and Communication Technology (ICICT)",
-    //   year: "2025",
-    //   doi: "",
-    //   link: ""
-    // },
+    {
+      id: 2,
+      title: "GNRA MAPS: an offline Python navigation assistant designed for guiding people around GNRA. The application provides voice directions from the reception area to important locations such as classrooms, offices, toilets, and other facilities. The interface is simple and button-based: users press a labeled button (e.g., Class, Office, Toilets), and the app instantly speaks the directions using text-to-speech technology. Since it works completely offline, it does not require internet access, making it reliable and accessible at all times. This app is particularly useful for new students, visitors, and staff who need clear, step-by-step directions without having to read maps. It combines ease of use, accessibility, and practicality in one tool.",
+      authors: "Edward Manela Jr",
+      journal: "",
+      year: "2023",
+      doi: "",
+      link: ""
+    },
     // {
     //   id: 3,
     //   title: "User Centred Design and Implementation of Useful Picture Archiving and Communication Systems for Effective Radiological Workflows in Public Health Facilities in Zambia",
