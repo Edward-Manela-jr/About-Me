@@ -301,6 +301,15 @@ export const Bio = {
       doi: "",
       link: ""
     },
+    {
+      id: 3,
+      title: "Image Organizer for Zambia Meteorological Department: A specialized image scanning and organization system developed for the Zambia Meteorological Department. The application enables efficient processing, categorization, and retrieval of meteorological images and satellite data. Key features include automated image scanning using Python and OpenCV, intelligent categorization of weather satellite images and radar data, bulk image processing for handling large volumes of observational photographs, metadata extraction and tagging for easy search and retrieval, and a user-friendly interface for meteorologists to organize and analyze weather data for forecasting purposes.",
+      authors: "Edward Manela",
+      journal: "",
+      year: "2026",
+      doi: "",
+      link: ""
+    },
     // {
     //   id: 3,
     //   title: "User Centred Design and Implementation of Useful Picture Archiving and Communication Systems for Effective Radiological Workflows in Public Health Facilities in Zambia",
@@ -564,6 +573,23 @@ export const Bio = {
       category: "web app",
       // github: "https://github.com/rishavchanda/Project-Management-App",
       webapp: "https://datalab.unza.zm/",
+    },
+    {
+      id: 3,
+      title: "Image Organizer for Zambia Meteorological Department",
+      date: "2026 - Present",
+      description:
+        "A specialized image scanning and organization system developed for the Zambia Meteorological Department. The application enables efficient processing, categorization, and retrieval of meteorological images and satellite data. Key features include automated image scanning using Python and OpenCV, intelligent categorization of weather satellite images and radar data, bulk image processing for handling large volumes of observational photographs, metadata extraction and tagging for easy search and retrieval, and a user-friendly interface for meteorologists to organize and analyze weather data for forecasting purposes.",
+      image:
+        unzaLogo,
+      tags: [
+        "Python",
+        "Image Processing",
+        "OpenCV",
+        "Machine Learning",
+        "Data Management",
+      ],
+      category: "web app",
     },
     // {
     //   id: 2,
