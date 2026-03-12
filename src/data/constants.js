@@ -589,7 +589,7 @@ export const Bio = {
         "AWS",
         "Machine Learning",
       ],
-      category: "web app",
+      category: "machine learning",
     },
     // {
     //   id: 2,
